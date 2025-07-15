@@ -3,6 +3,6 @@ tensorflow==2.19.0
 pandas
 Pillow
 python-dotenv
-supabase-py
+supabase
 streamlit-modal
 streamlit-option-menu
