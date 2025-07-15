@@ -1,0 +1,8 @@
+streamlit==1.37.1
+tensorflow==2.19.0
+pandas
+Pillow
+python-dotenv
+supabase-py
+streamlit-modal
+streamlit-option-menu
